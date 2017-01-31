@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  meal: MyString
+  day: 2017-01-20
+  food: MyText
+  calories: MyString
+
+two:
+  meal: MyString
+  day: 2017-01-20
+  food: MyText
+  calories: MyString
